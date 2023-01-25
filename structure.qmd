@@ -1,0 +1,20 @@
+# Dashboards {.unnumbered}
+
+## uMap (https://umap.openstreetmap.fr/en/) - Elisabetta
+
+## Google My Maps - Elisabetta
+
+## Google Data Studio -
+
+## Flourish - Amanda
+
+## Datawrapper - Amanda
+
+## Kepler - Elisabetta
+
+## Tableau - Monika
+
+## PowerBI -
+
+## Shiny - Monika
+

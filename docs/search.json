@@ -1,0 +1,114 @@
+[
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Dashboard Overview - Women + Geospatial",
+    "section": "",
+    "text": "Welcome\nThis is the website for “Dashboards bla bla bla\nWe will review ….\nThe idea is to build a map (or try to build a map) using each of these services and using the data available on this page: https://genderdata.worldbank.org/indicators/uis-fgp-5-t8-f600/ (there is a link in the top right to download as CSV).\nRomoke, would you be able to try Google Data Studio and PowerBI?\nThe aspects of each service we could record are:\nThe website is free to use and is licensed under the Attribution-NonCommercial-NoDerivatives 4.0 International. A compilation of this web course is hosted as a GitHub repository that you can access:"
+  },
+  {
+    "objectID": "index.html#contact",
+    "href": "index.html#contact",
+    "title": "Dashboard Overview - Women + Geospatial",
+    "section": "Contact",
+    "text": "Contact\n\nElisabetta Pietrostefani - e.pietrostefani [at] liverpool.ac.uk Lecturer in Geographic Data Science, United Kingdom.\n\n\nAmanda Crobins\n\n\nMonika Swiderska"
+  },
+  {
+    "objectID": "structure.html#course-structure",
+    "href": "structure.html#course-structure",
+    "title": "Dashboards",
+    "section": "Course Structure",
+    "text": "Course Structure\n\nIntroduction\nBlock 1\n\nIntroduction Lecture: Introduction to the module\nLab: Powerful examples & Discussion about interactive map"
+  },
+  {
+    "objectID": "structure.html#umap-httpsumap.openstreetmap.fren---elisabetta",
+    "href": "structure.html#umap-httpsumap.openstreetmap.fren---elisabetta",
+    "title": "Dashboards",
+    "section": "uMap (https://umap.openstreetmap.fr/en/) - Elisabetta",
+    "text": "uMap (https://umap.openstreetmap.fr/en/) - Elisabetta"
+  },
+  {
+    "objectID": "structure.html#google-my-maps---elisabetta",
+    "href": "structure.html#google-my-maps---elisabetta",
+    "title": "Dashboards",
+    "section": "Google My Maps - Elisabetta",
+    "text": "Google My Maps - Elisabetta"
+  },
+  {
+    "objectID": "structure.html#google-data-studio--",
+    "href": "structure.html#google-data-studio--",
+    "title": "Dashboards",
+    "section": "Google Data Studio -",
+    "text": "Google Data Studio -"
+  },
+  {
+    "objectID": "structure.html#flourish---amanda",
+    "href": "structure.html#flourish---amanda",
+    "title": "Dashboards",
+    "section": "Flourish - Amanda",
+    "text": "Flourish - Amanda"
+  },
+  {
+    "objectID": "structure.html#datawrapper---amanda",
+    "href": "structure.html#datawrapper---amanda",
+    "title": "Dashboards",
+    "section": "Datawrapper - Amanda",
+    "text": "Datawrapper - Amanda"
+  },
+  {
+    "objectID": "structure.html#kepler---elisabetta",
+    "href": "structure.html#kepler---elisabetta",
+    "title": "Dashboards",
+    "section": "Kepler - Elisabetta",
+    "text": "Kepler - Elisabetta"
+  },
+  {
+    "objectID": "structure.html#tableau---monika",
+    "href": "structure.html#tableau---monika",
+    "title": "Dashboards",
+    "section": "Tableau - Monika",
+    "text": "Tableau - Monika"
+  },
+  {
+    "objectID": "structure.html#powerbi--",
+    "href": "structure.html#powerbi--",
+    "title": "Dashboards",
+    "section": "PowerBI -",
+    "text": "PowerBI -"
+  },
+  {
+    "objectID": "structure.html#shiny---monika",
+    "href": "structure.html#shiny---monika",
+    "title": "Dashboards",
+    "section": "Shiny - Monika",
+    "text": "Shiny - Monika"
+  },
+  {
+    "objectID": "introduction.html#title",
+    "href": "introduction.html#title",
+    "title": "1  Flourish",
+    "section": "1.1 TITLE",
+    "text": "1.1 TITLE"
+  },
+  {
+    "objectID": "introduction.html#small-title",
+    "href": "introduction.html#small-title",
+    "title": "1  Flourish",
+    "section": "1.2 small title",
+    "text": "1.2 small title"
+  },
+  {
+    "objectID": "flourish.html#title",
+    "href": "flourish.html#title",
+    "title": "1  Flourish",
+    "section": "1.1 TITLE",
+    "text": "1.1 TITLE"
+  },
+  {
+    "objectID": "flourish.html#small-title",
+    "href": "flourish.html#small-title",
+    "title": "1  Flourish",
+    "section": "1.2 small title",
+    "text": "1.2 small title"
+  }
+]

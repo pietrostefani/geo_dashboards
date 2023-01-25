@@ -1,0 +1,43 @@
+project:
+  type: book
+  output-dir: docs
+
+book:
+  title: "Dashboard Overview - Women + Geospatial"
+  author: "Elisabetta Pietrostefani, Amanda Crobins and Monika Swiderska"
+  date: today
+
+  page-footer:
+    left: |
+      Which Dashboard ? Elisabetta Pietrostefani, Amanda Crobins and Monika Swiderska
+    right: |
+      This site was built with <a href="https://quarto.org/">Quarto</a>.
+  search: true
+  site-url:  https://pietrostefani.github.io/dashboards
+  repo-url: https://github.com/pietrostefani/wgeo_dashboards
+  repo-actions: [edit]
+  sharing: [twitter, facebook]
+  twitter-card:
+    creator: "@EPietrostefani"
+  sidebar:
+    style: docked
+    background: light
+  downloads: [pdf, epub]
+  chapters:
+    - index.qmd
+    - structure.qmd
+    - flourish.qmd
+    
+bibliography: references.bib
+
+format:
+  html:
+    theme: zephyr
+    css: styles.css
+  pdf:
+    documentclass: scrreprt
+
+editor: visual
+
+
+

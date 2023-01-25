@@ -1,0 +1,35 @@
+# Welcome {.unnumbered}
+
+This is the website for "Dashboards bla bla bla
+
+We will review ....
+
+The idea is to build a map (or try to build a map) using each of these services and using the data available on this page: https://genderdata.worldbank.org/indicators/uis-fgp-5-t8-f600/ (there is a link in the top right to download as CSV).
+
+Romoke, would you be able to try Google Data Studio and PowerBI?
+
+The aspects of each service we could record are:
+
+-   How much of the dataset can be mapped and styled in an hour of work
+-   Does it require any coding
+-   How customisable are the colours, icons, basemaps, etc
+-   Does it offer time-series visualisation/control
+-   Are there any limits to how much data can be added to a map For services that have both a free and paid element, what is included/excluded for the free version
+-   Can the maps be embedded easily in websites Is the service browser-based or installed-software-based
+-   How extensive is the help documentation or online support community (e.g. stackexchange)
+-   General comments on the quality of the user interface
+-   General comments on the quality of the maps
+
+The website is **free to use** and is licensed under the [Attribution-NonCommercial-NoDerivatives 4.0 International](https://creativecommons.org/licenses/by-nc-nd/4.0/). A compilation of this web course is hosted as a GitHub repository that you can access:
+
+-   As an [html website](https://pietrostefani.github.io/dashboards).
+-   As a [pdf document](https://github.com/GDSL-UL/wma/raw/main/docs/Web-Mapping-and-Analysis.pdf)
+-   As a [GitHub repository](https://github.com/pietrostefani/wgeo_dashboars).
+
+## Contact {.unnumbered}
+
+> Elisabetta Pietrostefani - e.pietrostefani \[at\] liverpool.ac.uk Lecturer in Geographic Data Science, United Kingdom.
+
+> Amanda Crobins
+
+> Monika Swiderska
