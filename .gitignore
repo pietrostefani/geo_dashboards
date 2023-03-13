@@ -4,3 +4,8 @@
 .Ruserdata
 
 /.quarto/
+.DS_Store
+data/.DS_Store
+docs/.DS_Store
+docs/site_libs/.DS_Store
+img/.DS_Store
